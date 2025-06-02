@@ -343,16 +343,16 @@ function App() {
       tech: ["React", "Tailwind CSS", "Node.js", "Express.js", "PostgreSQL", "Lucide"],
       github: "https://github.com/pisutpa/kpi_management_system",
       images: [
-        "/public/kpi/Screenshot 2025-06-02 112639.png",
-        "/public/kpi/Screenshot 2025-06-02 112900.png",
-        "/public/kpi/Screenshot 2025-06-02 112915.png",
-        "/public/kpi/Screenshot 2025-06-02 113314.png",
-        "/public/kpi/Screenshot 2025-06-02 113347.png",
-        "/public/kpi/Screenshot 2025-06-02 113448.png",
-        "/public/kpi/Screenshot 2025-06-02 113748.png",
-        "/public/kpi/Screenshot 2025-06-02 113808.png",
-        "/public/kpi/Screenshot 2025-06-02 113821.png",
-        "/public/kpi/Screenshot 2025-06-02 113831.png",
+        "./kpi/Screenshot 2025-06-02 112639.png",
+        "./kpi/Screenshot 2025-06-02 112900.png",
+        "./kpi/Screenshot 2025-06-02 112915.png",
+        "./kpi/Screenshot 2025-06-02 113314.png",
+        "./kpi/Screenshot 2025-06-02 113347.png",
+        "./kpi/Screenshot 2025-06-02 113448.png",
+        "./kpi/Screenshot 2025-06-02 113748.png",
+        "./kpi/Screenshot 2025-06-02 113808.png",
+        "./kpi/Screenshot 2025-06-02 113821.png",
+        "./kpi/Screenshot 2025-06-02 113831.png",
       ]
 
     },
@@ -369,10 +369,10 @@ function App() {
       tech: ["Codeigniter (PHP)", "CSS", "Bootstrap", "Node.js", "MySQL", "Chart.js"],
      
       images: [
-        "/public/elec/Screenshot 2025-06-02 130513.png",
-        "/public/elec/Screenshot 2025-06-02 130554.png",
-        "/public/elec/Screenshot 2025-06-02 130613.png",
-        "/public/elec/Screenshot 2025-06-02 130650.png",
+        "./elec/Screenshot 2025-06-02 130513.png",
+        "./elec/Screenshot 2025-06-02 130554.png",
+        "./elec/Screenshot 2025-06-02 130613.png",
+        "./elec/Screenshot 2025-06-02 130650.png",
 
       ]   // เพิ่มลิงก์รูปภาพโปรเจกต์ถ้ามี
     },
@@ -383,11 +383,11 @@ function App() {
       tech: ["Angular", "HTML", "CSS", "Bootstrap", "Node-RED", "SQLite"],
      
       images: [
-        "/public/project end/Screenshot 2025-06-02 124458.png",
-        "/public/project end/Screenshot 2025-06-02 124559.png",
-        "/public/project end/Screenshot 2025-06-02 124629.png",
-        "/public/project end/Screenshot 2025-06-02 124647.png",
-        "/public/project end/Screenshot 2025-06-02 124709.png",
+        "./project end/Screenshot 2025-06-02 124458.png",
+        "./project end/Screenshot 2025-06-02 124559.png",
+        "./project end/Screenshot 2025-06-02 124629.png",
+        "./project end/Screenshot 2025-06-02 124647.png",
+        "./project end/Screenshot 2025-06-02 124709.png",
 
 
       ]   // ใส่ลิงก์หรือ path รูปภาพโปรเจกต์ ถ้ามี
