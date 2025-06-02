@@ -367,29 +367,27 @@ function App() {
       title: "Power Consumption Monitoring Web Application",
       description: "Developed a responsive UI using Bootstrap and CSS to display real-time energy data. Integrated backend data from Node.js APIs and MySQL database. Visualized energy usage trends with Chart.js, built reusable UI components, and ensured cross-browser compatibility.",
       tech: ["Codeigniter (PHP)", "CSS", "Bootstrap", "Node.js", "MySQL", "Chart.js"],
-
+     
       images: [
         "src/assets/elec/Screenshot 2025-06-02 130513.png",
         "src/assets/elec/Screenshot 2025-06-02 130554.png",
         "src/assets/elec/Screenshot 2025-06-02 130613.png",
         "src/assets/elec/Screenshot 2025-06-02 130650.png",
 
-      ]  
+      ]   // เพิ่มลิงก์รูปภาพโปรเจกต์ถ้ามี
     },
 
     {
       title: "Controlling Electricity Consumption With LoRaWAN Technology",
       description: "Developed a responsive UI using Angular, HTML, CSS, and Bootstrap to visualize real-time electricity consumption data collected via LoRaWAN technology. Collaborated with backend systems using Node-RED and SQLite, focusing on creating a user-friendly dashboard.",
       tech: ["Angular", "HTML", "CSS", "Bootstrap", "Node-RED", "SQLite"],
-
+     
       images: [
         "src/assets/project end/Screenshot 2025-06-02 124458.png",
         "src/assets/project end/Screenshot 2025-06-02 124559.png",
         "src/assets/project end/Screenshot 2025-06-02 124629.png",
         "src/assets/project end/Screenshot 2025-06-02 124647.png",
         "src/assets/project end/Screenshot 2025-06-02 124709.png",
-
-
 
 
       ]   // ใส่ลิงก์หรือ path รูปภาพโปรเจกต์ ถ้ามี
