@@ -343,16 +343,16 @@ function App() {
       tech: ["React", "Tailwind CSS", "Node.js", "Express.js", "PostgreSQL", "Lucide"],
       github: "https://github.com/pisutpa/kpi_management_system",
       images: [
-        "/assets/kpi/Screenshot 2025-06-02 112639.png",
-        "/assets/kpi/Screenshot 2025-06-02 112900.png",
-        "/assets/kpi/Screenshot 2025-06-02 112915.png",
-        "/assets/kpi/Screenshot 2025-06-02 113314.png",
-        "/assets/kpi/Screenshot 2025-06-02 113347.png",
-        "/assets/kpi/Screenshot 2025-06-02 113448.png",
-        "/assets/kpi/Screenshot 2025-06-02 113748.png",
-        "/assets/kpi/Screenshot 2025-06-02 113808.png",
-        "/assets/kpi/Screenshot 2025-06-02 113821.png",
-        "/assets/kpi/Screenshot 2025-06-02 113831.png",
+        "src/assets/kpi/Screenshot 2025-06-02 112639.png",
+        "src/assets/kpi/Screenshot 2025-06-02 112900.png",
+        "src/assets/kpi/Screenshot 2025-06-02 112915.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113314.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113347.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113448.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113748.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113808.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113821.png",
+        "src/assets/kpi/Screenshot 2025-06-02 113831.png",
       ]
 
     },
@@ -369,10 +369,10 @@ function App() {
       tech: ["Codeigniter (PHP)", "CSS", "Bootstrap", "Node.js", "MySQL", "Chart.js"],
      
       images: [
-        "/assets/elec/Screenshot 2025-06-02 130513.png",
-        "/assets/elec/Screenshot 2025-06-02 130554.png",
-        "/assets/elec/Screenshot 2025-06-02 130613.png",
-        "/assets/elec/Screenshot 2025-06-02 130650.png",
+        "src/assets/elec/Screenshot 2025-06-02 130513.png",
+        "src/assets/elec/Screenshot 2025-06-02 130554.png",
+        "src/assets/elec/Screenshot 2025-06-02 130613.png",
+        "src/assets/elec/Screenshot 2025-06-02 130650.png",
 
       ]   // เพิ่มลิงก์รูปภาพโปรเจกต์ถ้ามี
     },
@@ -383,11 +383,11 @@ function App() {
       tech: ["Angular", "HTML", "CSS", "Bootstrap", "Node-RED", "SQLite"],
      
       images: [
-        "/assets/project end/Screenshot 2025-06-02 124458.png",
-        "/assets/project end/Screenshot 2025-06-02 124559.png",
-        "/assets/project end/Screenshot 2025-06-02 124629.png",
-        "/assets/project end/Screenshot 2025-06-02 124647.png",
-        "/assets/project end/Screenshot 2025-06-02 124709.png",
+        "src/assets/project end/Screenshot 2025-06-02 124458.png",
+        "src/assets/project end/Screenshot 2025-06-02 124559.png",
+        "src/assets/project end/Screenshot 2025-06-02 124629.png",
+        "src/assets/project end/Screenshot 2025-06-02 124647.png",
+        "src/assets/project end/Screenshot 2025-06-02 124709.png",
 
 
       ]   // ใส่ลิงก์หรือ path รูปภาพโปรเจกต์ ถ้ามี
