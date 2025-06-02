@@ -538,7 +538,7 @@ function App() {
               <div className="border-l-2 border-purple-500 pl-6">
                 <div className="flex items-start justify-between mb-2">
                   <h3 className="text-xl font-bold text-white">Full-Stack Developer</h3>
-                  <span className="text-purple-400 font-medium">May 2025 - Mar 2025</span>
+                  <span className="text-purple-400 font-medium">May 2025 - May 2025</span>
                 </div>
                 <p className="text-gray-400 mb-3">Personal Project - Self-learning</p>
                 <p className="text-gray-300 mb-3">KPI Management System</p>
